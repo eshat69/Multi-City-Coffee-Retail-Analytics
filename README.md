@@ -6,4 +6,7 @@ Data Modeling: Engineered a star-schema database in MySQL connecting sales trans
 Geospatial Insights: Correlated city population and rent with sales volume to determine the most profitable urban centers.
 
 Customer Intelligence: Analyzed over 10,000 sales records to identify top-performing products and customer satisfaction trends (ratings) by region."
-<img width="512" height="512" alt="coffee2" src="https://github.com/user-attachments/assets/9ece3756-6e6e-43cb-8610-d24f7e11cfbe" />
+
+
+<img width="1024" height="1024" alt="coffee4" src="https://github.com/user-attachments/assets/d566e616-f225-4d2e-a34d-18743a0287c6" />
+
