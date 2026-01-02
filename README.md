@@ -8,5 +8,5 @@ Geospatial Insights: Correlated city population and rent with sales volume to de
 Customer Intelligence: Analyzed over 10,000 sales records to identify top-performing products and customer satisfaction trends (ratings) by region."
 
 
-<img width="1024" height="1024" alt="coffee4" src="https://github.com/user-attachments/assets/d566e616-f225-4d2e-a34d-18743a0287c6" />
 
+<img width="1024" height="1024" alt="Add a subheading" src="https://github.com/user-attachments/assets/21895154-50aa-4b2e-8274-7fb022f718fb" />
